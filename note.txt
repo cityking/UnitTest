@@ -1,0 +1,4 @@
+[1]定义一个类继承自AndroidTestCase
+[2]配置清单文件instrumentation和uses-library
+	可新建一个测试工程然后复制它的配置
+
